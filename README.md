@@ -1,14 +1,15 @@
-### Olá! Eu sou Francisco Menezes 🤙
+### 👋 Olá, Meu Nome é Francisco Menezes
 
+<p>Aprendizado contínuo em desenvolvimento web e mobile utilizando tecnologias Node.JS, React.JS e React Native.</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-menezes-875a0a36/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frantecbh)
+---
 
+### 🎯 Objetivos - Full Stack
+<p>📌 Dominar ReactJS, React Native NodeJS.</p>
 
-![Francsico GitHub stats](https://github-readme-stats.vercel.app/api?username=frantecbh&show_icons=true&theme=dracula&count_private=true)
+---
 
-
-## Tecnologias que eu uso no meu dia
+### 👨🏼‍💻 Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
@@ -24,6 +25,16 @@
     <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frantecbh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-Apaixonado por tecnologia, desenvolvimento de sofrware. Aprendizado contínuo em busca de uma oportunidade como Desenvolvedor.
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=frantecbh&layout=compact'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=frantecbh&show_icons=true'>
+    </td>
+  </row>
+</table>
