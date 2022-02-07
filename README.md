@@ -1,6 +1,6 @@
 ### 👋 Olá, Meu Nome é Francisco Menezes
 
-<p>Aprendizado contínuo em desenvolvimento web e mobile utilizando tecnologias Node.JS, React.JS e React Native.</p>
+<p>Estou em aprendizado contínuo em desenvolvimento web e mobile utilizando tecnologias Node.JS, React.JS e React Native. Em busca de desafios como Desenvolvedor!</p>
 
 ---
 
