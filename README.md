@@ -4,8 +4,8 @@
 
 ---
 
-### 🎯 Objetivos - Full Stack
-<p>📌 Dominar ReactJS, React Native NodeJS.</p>
+### 🎯 Objetivos
+<p>📌<strong>FULL STACK</strong>  Dominar ReactJS, React Native NodeJS.</p>
 
 ---
 
